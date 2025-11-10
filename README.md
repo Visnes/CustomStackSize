@@ -1,6 +1,6 @@
 # CustomStackSize
 
-Customize the stack size of brick, concrete, hazard concrete, refined concrete, refined hazard concrete, landfill and wood in Facotrio.
+Customize the stack size of brick, concrete, hazard concrete, refined concrete, refined hazard concrete, landfill, wood, ice platforms, foundations, artificial jellynut soil and artificial yumako soil in Facotrio.
 
 <img width="150" height="148" alt="thumbnail" src="https://github.com/user-attachments/assets/19bf2768-3007-4e63-9528-b2cf792f14ac" />
 
