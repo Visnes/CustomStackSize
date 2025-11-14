@@ -2,8 +2,10 @@
 
 Customize the stack size of brick, concrete, hazard concrete, refined concrete, refined hazard concrete, landfill, wood, ice platforms, foundations, artificial jellynut soil and artificial yumako soil in Factorio.
 
+# Screenshots
 <img width="150" height="148" alt="thumbnail" src="https://github.com/user-attachments/assets/19bf2768-3007-4e63-9528-b2cf792f14ac" />
 
+<img width="1162" height="396" alt="425b348bcd9c5cf17a13347cb5aeb4d5229505e8" src="https://github.com/user-attachments/assets/1db61e81-aa8d-497f-8cab-bfedaa3a7a52" />
 
 ---
 
