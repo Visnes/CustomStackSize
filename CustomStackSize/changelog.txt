@@ -3,7 +3,7 @@ Version: 1.2.0
 Date: 2025-11-15
   Updates:
     - Added support for raw resources (iron, copper, stone, coal, uranium, fish and ice).
-    - Categorised settings better.
+    - Categorized settings better.
     - Fixed some spelling mistakes.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
