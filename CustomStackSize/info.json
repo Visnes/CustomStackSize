@@ -1,10 +1,10 @@
 {
   "name": "CustomStackSize",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "factorio_version": "2.0",
   "title": "Custom Stack Size",
   "author": "Visnes",
-  "description": "Lets you choose the stack size for landfill, concrete, refined concrete, bricks, wood, ice platforms, foundations, artificial jellynut soil and artificial yumako soil.",
+  "description": "Lets you choose the stack size for landfill, concrete, refined concrete, bricks, wood, ice platforms, foundations, artificial jellynut soil, artificial yumako soil, iron ore, copper ore, stone, coal, uranium ore, fish and ice.",
   "dependencies": [
     "base >= 2.0.0"
   ]
