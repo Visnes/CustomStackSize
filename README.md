@@ -2,8 +2,6 @@
 
 Customize the stack size of different resources in Factorio.
 
-<img width="152" height="151" alt="thumbnail" src="https://github.com/user-attachments/assets/fd11ed69-96a6-40b9-8353-0de43be8f12b" />
-
 ## Terrain
 - Brick
 - Concrete
@@ -81,8 +79,9 @@ Customize the stack size of different resources in Factorio.
 - Fusion power cell
 
 ## Screenshots
+<img width="150" height="148" alt="thumbnail" src="https://github.com/user-attachments/assets/19bf2768-3007-4e63-9528-b2cf792f14ac" />
 
-<img width="696" height="974" alt="customstacksize_settings" src="https://github.com/user-attachments/assets/33593cdb-f0b4-4496-a0a0-0fb5a144bd12" />
+<img width="1162" height="396" alt="425b348bcd9c5cf17a13347cb5aeb4d5229505e8" src="https://github.com/user-attachments/assets/1db61e81-aa8d-497f-8cab-bfedaa3a7a52" />
 
 ---
 
