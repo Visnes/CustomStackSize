@@ -1,7 +1,7 @@
 {
   "name": "CustomStackSize",
   "version": "2.1.1",
-  "factorio_version": "2.1",
+  "factorio_version": "2.0",
   "title": "Custom Stack Size",
   "author": "Visnes",
   "description": "Customize the stack size of different resources, materials, terrain and more individually.",
