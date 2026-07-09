@@ -1,0 +1,42 @@
+---------------------------------------------------------------------------------------------------
+Version: 2.1.1
+Date: 2026-07-08
+  Changes:
+    - Added support for version 2.1
+---------------------------------------------------------------------------------------------------
+Version: 2.1.0
+Date: 2026-06-29
+  Features:
+    - Added intermediate products: copper cable, iron stick, iron gear wheel, electronic/advanced circuits, processing units, engine units, electric engine units, flying robot frame, low density structure and rocket fuel
+    - Added all science packs (automation, logistic, military, chemical, production, utility, space, metallurgic, electromagnetic, agricultural, cryogenic and promethium)
+    - Added asteroid chunks (metallic, carbonic, oxide and promethium)
+  Bugfixes:
+    - Fixed the raw fish setting not applying
+  Changes:
+    - Reworked the config to read from a single shared item list, so all settings stay consistent. Existing setting names, defaults and ordering are unchanged
+---------------------------------------------------------------------------------------------------
+Version: 2.0.1
+Date: 2025-11-17
+  Updates: Tiny change to config.
+---------------------------------------------------------------------------------------------------
+Version: 2.0.0
+Date: 2025-11-16
+  Updates:
+    - Added support for a bunch of new items like uranium processing and items from all the main planets Vulcanus, Fulgora, Gleba and Aquilo.
+---------------------------------------------------------------------------------------------------
+Version: 1.2.0
+Date: 2025-11-15
+  Updates:
+    - Added support for raw resources (iron, copper, stone, coal, uranium, fish and ice).
+    - Categorized settings better.
+    - Fixed some spelling mistakes.
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2025-11-10
+  Updates:
+    - Added support for ice platforms, foundations, artificial jellynut soil and artificial yumako soil.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025-11-07
+  Updates:
+    - Initial release.
