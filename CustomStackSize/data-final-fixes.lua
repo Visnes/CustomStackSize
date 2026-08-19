@@ -31,3 +31,32 @@ for _, category in pairs(stack_list) do
     end
   end
 end
+
+-- LUA doesn't have a built-in way to split strings, so...
+-- Source - https://stackoverflow.com/a/7615129
+-- Posted by user973713, modified by community. See post 'Timeline' for change history
+-- Retrieved 2026-08-20, License - CC BY-SA 4.0
+function strsplit(inputstr, sep)
+  if sep == nil then
+    sep = "%s"
+  end
+  local t = {}
+  for str in string.gmatch(inputstr, "([^"..sep.."]+)") do
+    table.insert(t, str)
+  end
+  return t
+end
+
+-- Custom user-added rules
+for _, token in pairs(strsplit(settings.startup["stack-size-custom-others"].value, ";")) do
+  local proto_name, ssize = table.unpack(strsplit(token, "="))
+  if ssize then
+    local size = tonumber(ssize)
+    if size >= 1 and size <= 100000 then
+      local proto = find_proto(proto_name)
+      if proto then
+        proto.stack_size = size
+      end
+    end
+  end
+end
