@@ -20,4 +20,14 @@ for _, category in pairs(stack_list) do
   end
 end
 
+settings_to_add[#settings_to_add + 1] = {
+  type = "string-setting",
+  name = "stack-size-custom-others",
+  setting_type = "startup",
+  default_value = "",
+  allow_blank = true,
+  -- allow_trim = false,
+  order = "za",
+}
+
 data:extend(settings_to_add)
